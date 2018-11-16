@@ -1,0 +1,5 @@
+# config
+jdbcUrl = jdbc:mysql://localhost/wwkdatabase?characterEncoding=utf8&useSSL=false&zeroDateTimeBehavior=convertToNull
+user = wwk
+password =123456
+devMode = true
